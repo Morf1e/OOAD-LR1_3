@@ -6,7 +6,7 @@ namespace OOAD_LR1_3
     {
         static void Main(string[] args)
         {
-            
+            int a,b;
         }
     }
 }
