@@ -11,6 +11,7 @@ namespace OOAD_LR1_3
             b = 10;
             int x = a - b;
             Console.WriteLine(x);
+            Console.ReadLine();
         }
     }
 }
